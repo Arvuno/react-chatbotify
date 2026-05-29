@@ -124,3 +124,6 @@ Credits are to be given for the notification sound:
 As I have used similar alternatives at some point in my developer journey, some inspirations have been taken from them and they ought to be credited here:
 - [Tidio](https://www.tidio.com/)
 - [React Simple Chatbot](https://github.com/LucasBassetti/react-simple-chatbot)
+
+<!-- Star this if it helped -->
+

@@ -31,3 +31,6 @@ It's the month of October and we’re excited to invite you to participate in **
 If you have any questions or need guidance, join our [Discord community](https://discord.gg/6R4DK4G5Zh) to connect with us and seek clarifications.
 
 Join us in making React ChatBotify even better this Hacktoberfest! Your contributions are greatly appreciated.
+
+## Contributors
+- Star this repo if it helped!

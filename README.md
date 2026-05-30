@@ -9,6 +9,7 @@
   <a href="https://www.npmjs.com/package/react-chatbotify"> <img src="https://img.shields.io/badge/react-16--19-orange?logo=react&label=react" /> </a>
   <a href="https://www.npmjs.com/package/react-chatbotify"> <img src="https://img.shields.io/npm/d18m/react-chatbotify?logo=npm&label=npm%20downloads&color=%232281c2" /> </a>
   <a href="https://discord.gg/6R4DK4G5Zh"> <img src="https://img.shields.io/endpoint?url=https://my-api.tjtanjin.com/aggregator/api/v1/get/rcb_discord_member_count&logo=discord&logoColor=ffffff" /> </a>
+  <a href="https://github.com/react-chatbotify/react-chatbotify"> <img src="https://img.shields.io/github/stars/react-chatbotify/react-chatbotify?style=flat-square&logo=github&label=stars" alt="GitHub stars" /> </a>
 
 </p>
 
@@ -32,6 +33,7 @@
 Welcome to [**React ChatBotify**](https://react-chatbotify.com), an intuitive and versatile library that allows you to build responsive chatbots with ease. Whether you're aiming to create a [**simple FAQ bot**](https://tjtanjin.medium.com/building-a-faq-bot-a-react-chatbotify-guide-part-3-7ce13d09933e) or a sophisticated conversational interface [**integrated with Large Language Models (LLMs)**](https://tjtanjin.medium.com/how-to-build-and-integrate-a-react-chatbot-with-llms-a-react-chatbotify-guide-part-4-b40cd59fd6e6) such as [**OpenAI**](https://react-chatbotify.com/docs/examples/openai_integration) or [**Google Gemini**](https://react-chatbotify.com/docs/examples/gemini_integration), React ChatBotify provides the tools and flexibility you need to bring your vision to life.
 
 Designed with developers in mind, React ChatBotify simplifies the chatbot development process without compromising on functionality. Its intuitive API and comprehensive customization options allow you to tailor your chatbot to meet specific project requirements seamlessly. From handling basic interactions to managing complex and advanced conversational flows, our library empowers you to deliver engaging user experiences. Head over to our [**community showcases**](https://github.com/react-chatbotify/react-chatbotify/blob/main/SHOWCASES.md) or join [**our discord**](https://discord.gg/6R4DK4G5Zh) to get inspired and start crafting your chatbot today!
+  <a href="https://github.com/react-chatbotify/react-chatbotify"> <img src="https://img.shields.io/github/stars/react-chatbotify/react-chatbotify?style=flat-square&logo=github&label=stars" alt="GitHub stars" /> </a>
 
 React ChatBotify is currently compatible with **React versions 16, 17, 18, and 19**. Get started by installing the library with the following command:
 
@@ -106,6 +108,7 @@ If you are looking to contribute, please refer to the [**Contributing Guide**](h
 
 ### Support
 If there are any questions pertaining to the application itself (usage or implementation wise), you may create an [**issue**](https://github.com/react-chatbotify/react-chatbotify/issues), reach out on [**discord**](https://discord.gg/6R4DK4G5Zh), or drop me an email at: **cjtanjin@gmail.com**.
+  <a href="https://github.com/react-chatbotify/react-chatbotify"> <img src="https://img.shields.io/github/stars/react-chatbotify/react-chatbotify?style=flat-square&logo=github&label=stars" alt="GitHub stars" /> </a>
 
 ### Attributions
 #### Images

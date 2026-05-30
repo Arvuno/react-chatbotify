@@ -1,0 +1,12 @@
+days-before-stale: 60
+days-before-close-stale: 14
+
+issues:
+  label-to-add: stale
+  exempt-labels: ['bug', 'enhancement', 'help wanted']
+
+prs:
+  label-to-add: stale
+  exempt-labels: ['in progress']
+
+exempt-all-milestones: true
